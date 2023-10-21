@@ -9,7 +9,7 @@ Tópicos estudados durante o curso:
 7. Processamento de Linguagem Natural (NLP) e Large Language Models (LLMs)
 8. Geração de Imagens e Transcrição de Áudio
 9. Detecção de Anomalias
-10. Algotirmos Genéticos
+10. Algoritmos Genéticos
 11. Algoritmos de Busca e Otimização
 12. Lógica Difusa
 13. Projeto Final
